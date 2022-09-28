@@ -1,0 +1,9 @@
+img {
+    margin: px;
+    transition: all 0.2s linear;
+    filter: grayscale(100%);
+
+}
+img:hover{
+    filter: grayscale(0%);
+}
