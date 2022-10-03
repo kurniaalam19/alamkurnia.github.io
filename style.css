@@ -7,3 +7,17 @@ img {
 img:hover{
     filter: grayscale(0%);
 }
+.porto{
+    color: rgb(100, 16, 16);
+    text-align: center;
+    text-decoration:overline;
+}
+.h3{
+    text-align: center;
+    text-decoration-color: aqua;
+}
+.link{
+    color: rgb(100, 16, 16);
+    font-size: x-small;
+    background-color: grey;
+}
